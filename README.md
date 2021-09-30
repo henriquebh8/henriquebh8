@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 estudando typescript
-- 😄 Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/henriquebh8">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquebh8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
