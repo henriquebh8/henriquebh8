@@ -26,6 +26,6 @@
   <a href = "mailto:henriquenovaes2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-novaes-5a5001221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/henriquebh8/henriquebh8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/henriquebh8/henriquebh8/blob/output/github-contribution-grid-snake.svg)
  
 </div>
