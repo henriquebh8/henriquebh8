@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil! Eu sou o Henrique Novaes 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com desenvolvimento de software fullstack javascript
 - 🌱 estudando typescript
 <div align="center">
   <a href="https://github.com/henriquebh8">
