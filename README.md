@@ -1,7 +1,8 @@
 ### Bem vindo ao meu perfil! Eu sou o Henrique Novaes 👋
 
-- 🔭 Hoje trabalho com desenvolvimento de software fullstack javascript
-- 🌱 estudando typescript
+- 🔭 Hoje trabalho com desenvolvimento de software javascript/typescript
+- 🌱 discente de ciência da computação no centro universitário UNA
+- 
 <div align="center">
   <a href="https://github.com/henriquebh8">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquebh8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
